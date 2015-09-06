@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 024efe3d3a82d6a4ca337f39d2d78fcd
+labels:
+- USFX
+- stereo
+- musiceffect
+- positive
+- harp
+AudioImporter:
+  serializedVersion: 4
+  format: 0
+  quality: .5
+  stream: 1
+  3D: 0
+  forceToMono: 1
+  useHardware: 0
+  loopable: 0
+  userData: 
